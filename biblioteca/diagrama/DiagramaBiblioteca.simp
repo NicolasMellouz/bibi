@@ -2,8 +2,8 @@
 <sim-project version="14.20" multi-file="no" uid="simpb3d32e91675f456f8e0c44ebfe104f15" creation-date="06/17/2024 07:59:37">
   <meta>
     <name>DiagramaBiblioteca</name>
-    <authors>MATHEUS SILVA DA CRUZ</authors>
-    <description>Equipe: Matheus, Vinicius, Ian e Pedro Aleksander</description>
+    <authors>Nicolas Mello</authors>
+    <description>Nicolas Mello</description>
   </meta>
   <counters models="1">
     <entity-names>
@@ -55,10 +55,10 @@
   <management uid="md-6335f17745e44e5d895ab349031a9856" name="" task-id-sequence="0">
     <persons>
       <person id="">
-        <first-name>MATHEUS</first-name>
-        <last-name>SILVA DA CRUZ</last-name>
+        <first-name>Nicolas Mello</first-name>
+        <last-name>Mello</last-name>
         <role />
-        <e-mail>matheus_silva-cruz@estudante.sesisenai.org.br</e-mail>
+        <e-mail>nicolas_a_mello@estudante.sesisenai.org.br</e-mail>
         <phone-number />
         <description />
         <color>#00000000</color>
